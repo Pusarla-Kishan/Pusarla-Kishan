@@ -1,0 +1,7 @@
+Python 3.7.7rc1 (tags/v3.7.7rc1:93b7677f9c, Mar  4 2020, 12:05:18) [MSC v.1900 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+== RESTART: C:/Users/DELL/AppData/Local/Programs/Python/Python37/python kishan =
+unique solution
+[-0.20689655  1.74137931]
+>>> 
